@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nick Tobolski
-- 👀 I’m interested in Biology (inc. evo psych), autocatalytic systems, design
-- 🌱 I’m currently learning Jenkins and Python
-- 💞️ I’m looking to collaborate on helping humanity reach its potential
+- 👀 I’m interested in Biology (especially evolutionary psychology), autocatalytic systems, and design
+- 🌱 I’m a biophile so enjoy attentive walks in nature, bird watching, and almost anything outdoors
+- 💞️ I’m looking to collaborate on helping humanity reach its potential by building excellent tools
 - 📫 How to reach me @nicktobolski
 
 <!---
